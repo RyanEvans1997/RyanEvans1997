@@ -28,7 +28,7 @@
 </h5>
 <br>
 <p align="center">
-  Full Stack Software Developer, mainly specialising in .NET development
+  Full Stack Software Developer, specialising in .NET development
   <br>
   <br>
   Graduated with a first class honours in computer science
