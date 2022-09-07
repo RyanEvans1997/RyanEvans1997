@@ -49,7 +49,7 @@
 <code><img title="Javascript" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
 <code><img title="Microsoft SQL Server" height="25" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"></code>
 <code><img title="Postman" height="25" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
-<code><img title="React" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactjs/reactjs-original-wordmark.svg"></code>
+<code><img title="React" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactjs/reactjs-original.svg"></code>
 <code><img title="Tailwind" height="25" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></code>
 <code><img title="TypeScript" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
 <code><img title="VueJS" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"></code>
