@@ -1,3 +1,9 @@
+<style>
+    .markdown-body code, .markdown-body tt {
+        all: inital;
+    }
+</style>
+
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/ryanjpevans/" title="LinkedIn Profile">
