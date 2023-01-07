@@ -1,31 +1,9 @@
-<h5 align="center">
-  <div>
-    <a href="https://www.linkedin.com/in/ryanjpevans/" title="LinkedIn Profile">
-    <img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg">
-     LinkedIn
-    </a>
-  </div>
-  <div>
-    <a href="https://www.hackerrank.com/ryanevans1997" title="HackerRank Profile">
-    <img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg">
-    HackerRank
-    </a>
-  </div>
-  <div>
-    <a href="https://leetcode.com/ryanevans19971/" title="Leetcode Profile">
-    <img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg">
-    Leetcode
-    </a>
-  </div>
-    <div>
-    <a href="https://ryan-evans.netlify.app/Ryan_Evans_CV.pdf" title="CV">
-<svg stroke="#FFFFFF" fill="#FFFFFF" width="22" height="22" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512">
-<path d="M0 64C0 28.65 28.65 0 64 0H224V128C224 145.7 238.3 160 256 160H384V448C384 483.3 355.3 512 320 512H64C28.65 512 0 483.3 0 448V64zM256 128V0L384 128H256z"/>
-</svg>
-    Resume
-    </a>
-  </div>
-</h5>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ryanjpevans/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ryanjpevans/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ryanevans19971" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ryanevans19971" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/ryanevans19971/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ryanevans19971/" height="30" width="40" /></a>
+</p>
 <br>
 <p align="center">
   Full Stack Software Developer, specialising in .NET development
