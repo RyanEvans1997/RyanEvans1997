@@ -6,7 +6,7 @@
 </p>
 <br>
 <p align="center">
-  Full Stack Software Developer, specialising in .NET development
+  Full Stack Software Developer with nearly 3 years experience, 2 being in .NET development
   <br>
   <br>
   Graduated with a first class honours in computer science
