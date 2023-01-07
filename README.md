@@ -1,8 +1,11 @@
-<style>
+<code>
+    <style>
     .markdown-body code, .markdown-body tt {
         all: inital;
     }
 </style>
+
+    </code>
 
 <h5 align="center">
   <code>
