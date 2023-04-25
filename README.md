@@ -9,7 +9,7 @@
   Full Stack Software Developer with 3 years .NET experience
   <br>
   <br>
-  Graduated with a first class honours in computer science
+  First class honours computer science graduate
   <br>
   <br>
   You can reach me at my email: <a href="mailto: ryanevans19971@gmail.com">ryanevans19971@gmail.com</a>
