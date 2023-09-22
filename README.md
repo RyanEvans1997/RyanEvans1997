@@ -38,5 +38,4 @@
       <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=ryanevans1997&show_icons=true&theme=react&border_color=61dafb&hide_border=true&count_private=true" />
     </a>
   </div>
-  <br><br><br><br><br><br><br><br><br>
 </p>
